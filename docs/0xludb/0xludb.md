@@ -17,7 +17,6 @@
   - db **The main database file. Do not delete this file as it contains all your saved data.**
   - resource
   - server.cfg
-
 :::
 
 ## Installation Guide
