@@ -7,7 +7,7 @@ sidebar_position: 4
 exports["ab_Hud"]:SetWanted(Stars)
 ```
 #### Parameters:
-- **Stars**: The desired wanted level for the player. This should be a numerical value representing the number of wanted stars (typically between `0` and `5`).
+- **Stars**: The desired wanted level for the player. This should be a numerical value representing the number of wanted stars (typically between `0` and `6`).
 
 ### Server-Side Event
 To update the wanted level from the server-side, use the following code:
