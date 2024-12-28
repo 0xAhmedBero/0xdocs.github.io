@@ -8,7 +8,7 @@ const config: Config = {
   favicon: 'img/logo.png',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://docs.0xar.dev/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -57,14 +57,14 @@ const config: Config = {
           label: 'Docs',
         },
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/0xdevar',
           label: 'GitHub',
           position: 'right',
         },
-        {
-          type: 'localeDropdown',
-          position: 'right',
-        },
+        // {
+        //   type: 'localeDropdown',
+        //   position: 'right',
+        // },
         
       ],
     },
@@ -89,11 +89,11 @@ const config: Config = {
             },
             {
               label: 'Discord',
-              href: 'https://discord.gg/wgewapc4EJ',
+              href: 'https://discord.gg/QH2533PP3G',
             },
             {
               label: 'X',
-              href: 'https://twitter.com/docusaurus',
+              href: 'https://x.com/0xwal/',
             },
           ],
         },
@@ -102,7 +102,7 @@ const config: Config = {
           items: [
             {
               label: '0xHud',
-              href: 'https://github.com/0xdevar',
+              href: 'https://github.com/0xAhmedBero/0xHud',
             },
           ],
         },
