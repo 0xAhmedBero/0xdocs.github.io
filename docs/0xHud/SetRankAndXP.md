@@ -11,7 +11,7 @@ exports["ab_Hud"]:SetRankAndXP(currentXPLimit, nextXPLimit, NewXP, rank, onScree
 - **nextXPLimit**: A numerical value indicating the XP required to reach the next rank.
 - **NewXP**: A numerical value representing the player's current XP.
 - **rank**: A numerical value representing the player's current rank.
-- **onScreenDuration**: A numerical value for how long the rank update notification should be displayed on screen (in milliseconds).
+- **onScreenDuration**: A numerical value for how long the rank update notification should be displayed on screen (in seconds).
 - **customColor**: A numerical value for the color of the rank notification.
 
 ### Server-Side Event

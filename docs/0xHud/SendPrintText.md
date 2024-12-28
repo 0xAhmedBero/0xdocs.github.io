@@ -19,6 +19,6 @@ TriggerClientEvent("0xHud:SendPrintText", source, text, duration, drawImmediatel
 #### Parameters:
 - **source**: The player ID to whom the print text is being sent.
 - **text**: The text message to be printed on the screen.
-- **duration**: The duration for which the text will be displayed, in milliseconds.
+- **duration**: The duration for which the text will be displayed, in seconds.
 - **drawImmediately**: A boolean value indicating whether to draw the text immediately.
 

@@ -10,7 +10,7 @@ exports["ab_Hud"]:ShowUnlockMessage(Title, Desc, Desc2, displayTime)
 - **Title**: A string representing the title of the unlock message.
 - **Desc**: A string representing the description of the unlock message.
 - **Desc2**: A string representing an additional description or message.
-- **displayTime**: A number representing the duration (in milliseconds) to display the unlock message.
+- **displayTime**: A number representing the duration (in seconds) to display the unlock message.
 
 ### Server-Side Event
 To show the unlock message from the server-side, use the following code:
